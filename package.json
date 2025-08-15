@@ -9,24 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ai-sdk/openai": "^2.0.13",
-    "@ai-sdk/react": "^2.0.13",
+    "@ai-sdk/openai": "^2.0.14",
+    "@ai-sdk/react": "^2.0.14",
     "@e2b/code-interpreter": "^1.5.1",
-    "@inngest/agent-kit": "^0.9.0",
     "@prisma/client": "^6.13.0",
-    "@tanstack/react-query": "^5.84.1",
-    "@trpc/client": "^11.4.3",
-    "@trpc/server": "^11.4.3",
-    "@trpc/tanstack-react-query": "^11.4.3",
-    "ai": "^5.0.13",
-    "client-only": "^0.0.1",
-    "inngest": "^3.40.1",
+    "ai": "^5.0.14",
     "next": "15.4.5",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "server-only": "^0.0.1",
-    "superjson": "^2.2.2",
-    "zod": "^4.0.14"
+    "zod": "^3.25.76"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
